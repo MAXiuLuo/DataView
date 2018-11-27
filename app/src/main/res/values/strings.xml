@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">自定义时间控件</string>
+    <string name="activity_main_tipssentence">点击选择日期↓</string>
+</resources>

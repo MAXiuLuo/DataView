@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c067bb82105490fbb176a6175cff8fd6350013ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\Demo\DateView\app\build\intermediates\pre-dexed\debug\classes_3133e9d2ab311e86361ac78374b51ed855eb5eda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\a4e5353f06ae2f4410a70d23419b577b279653b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\Demo\DateView\app\build\intermediates\pre-dexed\debug\classes_93e751a9e94a1b0961410bc8e93255718977a0bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Demo\DateView\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_d573760ead3216a5cc2d1e922f713bd8454b87f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\9b36e06fe5f8c84b13459c161d529065cf1c017d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\Demo\DateView\app\build\intermediates\pre-dexed\debug\classes_1fec2e16223f4ab3b2b08844cee4395cb13707e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\3bfa3f3490cd28d3e067b28392bc0d3ab4a2612b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\Demo\DateView\app\build\intermediates\pre-dexed\debug\classes_aec6a65799b104fe46507ecdbbff2c6f73344484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\1fb71767194a46f45e579b3f4d8a9bc26edcd9fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Demo\DateView\app\build\intermediates\pre-dexed\debug\classes_47e94d3a1b0f0b19dd2de67d5e587a4aa6e1850f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e6840c489c2c574f0bc0e93cec06dbbff27b2132\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\Demo\DateView\app\build\intermediates\pre-dexed\debug\classes_f627b022353582423b375cdb42afd97f55f9a8de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c6a3ef46c3944634f22501f049ffd854d32cf7f9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\Demo\DateView\app\build\intermediates\pre-dexed\debug\classes_79e0f6965c5acd459c4304d24ccec65b6ac61e2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\Demo\DateView\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_a37fcc1c2dd8cccb8456557b30a1911d95fab1c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c169f9732d86dbfd0392573b4b3e191bebe07bbd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Demo\DateView\app\build\intermediates\pre-dexed\debug\classes_3ac6a9a549fa0ca54f3ef385d7590bef5e526166.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\70576911a064e74e3145699f60068fc8448f5db4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\Demo\DateView\app\build\intermediates\pre-dexed\debug\classes_dc64eaddc984714ebf8658c9ee1a0467a666677a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\5ee2e1e5f77e66195d104bf57cb1718687ef2ee0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\Demo\DateView\app\build\intermediates\pre-dexed\debug\classes_dca8a292a96d4eda36c34229ca0befd29362ad7c.jar" />
+    </item>
+
+</items>

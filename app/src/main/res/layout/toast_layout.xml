@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/toast_bg"
+                android:paddingBottom="25px"
+                android:paddingLeft="25px"
+                android:paddingRight="25px"
+                android:paddingTop="25px" >
+
+    <TextView
+        android:id="@+id/message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:textSize="24px" />
+
+
+</RelativeLayout>
